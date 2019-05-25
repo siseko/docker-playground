@@ -1,3 +1,4 @@
+## Docker Playground [![Build Status](https://travis-ci.org/siseko/docker-playground.svg?branch=master)](https://travis-ci.org/siseko/docker-playground)
 ### Running the application
 
 - `docker-compose up --build`
